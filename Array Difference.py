@@ -8,4 +8,5 @@ def array_diff(a, b):
             new_list.append(number)
     return new_list
 
+
 print(array_diff(x,y))
