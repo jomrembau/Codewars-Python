@@ -10,4 +10,5 @@ def bouncing_ball(h, bounce, window):
         return -1
     return fall_and_bounce
 
-print(bouncing_ball(2, 0.5, 1))
+
+print(bouncing_ball(2, 0.5, 1)) 
