@@ -17,4 +17,5 @@ def duplicate_count(text):
 
     return len(done)
 
-print(duplicate_count("abcdeaB"))
+print(duplicate_count("abcdeaB")) 
+
